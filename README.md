@@ -4,7 +4,7 @@
 
 ## About
 
-- Passioned by software, mobile and web development.
+- Passionate by software, mobile and web development.
 - Currently studying in Lyon, France.
 - Personnal website : [olivierandriko.com](https://olivierandriko.com/)
 - Dev/music blog : [valdoin-blog.olivierandriko.com](https://valdoin-blog.olivierandriko.com/)
